@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_539696_my_univer_myuniversitystudents">x_539696_my_univer_myuniversitystudents</category>
+        <maximum_digits>7</maximum_digits>
+        <number>1000</number>
+        <prefix>MYU</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-05 20:44:15</sys_created_on>
+        <sys_id>97d19f69db506010b64e7b60399619b9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>MYU</sys_name>
+        <sys_package display_value="My_University" source="x_539696_my_univer">87cd0225db9c2010b64e7b6039961992</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="My_University">87cd0225db9c2010b64e7b6039961992</sys_scope>
+        <sys_update_name>sys_number_97d19f69db506010b64e7b60399619b9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-05 20:44:15</sys_updated_on>
+    </sys_number>
+</record_update>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_ui_parameter">
+    <sys_sg_ui_parameter action="INSERT_OR_UPDATE">
+        <button display_value="Edit Button (MyUniversityEnrollment)">d972d7a9db506010b64e7b6039961917</button>
+        <button_parent_table>x_539696_my_univer_myuniversityenrollment</button_parent_table>
+        <carried>false</carried>
+        <constant/>
+        <default_value/>
+        <default_value_type>source_field</default_value_type>
+        <field_name>first_name</field_name>
+        <input_source>user</input_source>
+        <input_style>inline</input_style>
+        <input_type>text</input_type>
+        <mandatory>false</mandatory>
+        <max_entries/>
+        <multi_entry>false</multi_entry>
+        <multi_select>false</multi_select>
+        <name>First Name</name>
+        <order/>
+        <parameter_type>button</parameter_type>
+        <placeholder/>
+        <screen/>
+        <search_type>starts_with</search_type>
+        <source_field>first_name</source_field>
+        <sys_class_name>sys_sg_ui_parameter</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-05 20:46:50</sys_created_on>
+        <sys_id>1d72d7a9db506010b64e7b6039961918</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>First Name</sys_name>
+        <sys_package display_value="My_University" source="x_539696_my_univer">87cd0225db9c2010b64e7b6039961992</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="My_University">87cd0225db9c2010b64e7b6039961992</sys_scope>
+        <sys_update_name>sys_sg_ui_parameter_1d72d7a9db506010b64e7b6039961918</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-05 20:46:50</sys_updated_on>
+        <table_name>x_539696_my_univer_myuniversityenrollment</table_name>
+    </sys_sg_ui_parameter>
+    <sys_translated_text action="delete_multiple" query="documentkey=1d72d7a9db506010b64e7b6039961918"/>
+</record_update>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <button display_value="Edit Button (MyUniversityEnrollment)">d972d7a9db506010b64e7b6039961917</button>
+        <color_theme>primary</color_theme>
+        <description/>
+        <field_name/>
+        <icon/>
+        <label>Edit</label>
+        <location>top</location>
+        <name>Edit (MyUniversityEnrollment)</name>
+        <order/>
+        <parent>cd72d7a9db506010b64e7b6039961903</parent>
+        <parent_table>sys_sg_form_screen</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-05 20:46:50</sys_created_on>
+        <sys_id>1972d7a9db506010b64e7b603996191b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Edit (MyUniversityEnrollment)</sys_name>
+        <sys_package display_value="My_University" source="x_539696_my_univer">87cd0225db9c2010b64e7b6039961992</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="My_University">87cd0225db9c2010b64e7b6039961992</sys_scope>
+        <sys_update_name>sys_sg_button_instance_1972d7a9db506010b64e7b603996191b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-05 20:46:50</sys_updated_on>
+        <table/>
+    </sys_sg_button_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=1972d7a9db506010b64e7b603996191b"/>
+</record_update>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_import_set_row" label="My Univer 1604608850320" max_length="40" name="x_539696_my_univer_1604608850320" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Description" label="Description" max_length="60" name="u_description" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=ID" label="ID" max_length="40" name="u_id" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Name" label="Name" max_length="40" name="u_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Phone#" label="Phone#" max_length="40" name="u_phone_" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=URL" label="URL" max_length="40" name="u_url" type="string"/>
+    </element>
+</database>

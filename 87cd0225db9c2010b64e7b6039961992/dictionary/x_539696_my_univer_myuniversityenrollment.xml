@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="MyUniversityEnrollment" max_length="40" name="x_539696_my_univer_myuniversityenrollment" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Course Enrolled" max_length="40" name="course_enrolled" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Date Registered" max_length="40" name="date_registered" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="First Name" max_length="40" name="first_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Grades" max_length="40" name="grades" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Last Name" max_length="40" name="last_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <index name="index">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>

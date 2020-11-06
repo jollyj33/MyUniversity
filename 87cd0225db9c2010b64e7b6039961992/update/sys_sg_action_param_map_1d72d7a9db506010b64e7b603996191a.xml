@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="INSERT_OR_UPDATE">
+        <button display_value="Edit Button (MyUniversityEnrollment)">d972d7a9db506010b64e7b6039961917</button>
+        <item_parameter display_value="MyUniversityEnrollment grades">5972d7a9db506010b64e7b6039961916</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-05 20:46:50</sys_created_on>
+        <sys_id>1d72d7a9db506010b64e7b603996191a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>5972d7a9db506010b64e7b6039961916</sys_name>
+        <sys_package display_value="My_University" source="x_539696_my_univer">87cd0225db9c2010b64e7b6039961992</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="My_University">87cd0225db9c2010b64e7b6039961992</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_1d72d7a9db506010b64e7b603996191a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-05 20:46:50</sys_updated_on>
+        <ui_parameter display_value="Grades">1172d7a9db506010b64e7b6039961919</ui_parameter>
+    </sys_sg_action_param_map>
+</record_update>

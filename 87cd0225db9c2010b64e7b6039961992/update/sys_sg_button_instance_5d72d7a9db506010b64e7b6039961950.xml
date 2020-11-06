@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <button display_value="New Button (MyUniversityStudents)">5972d7a9db506010b64e7b603996194e</button>
+        <color_theme>primary</color_theme>
+        <description/>
+        <field_name/>
+        <icon/>
+        <label>New</label>
+        <location>top</location>
+        <name>New (MyUniversityStudents)</name>
+        <order/>
+        <parent>dd72d7a9db506010b64e7b6039961949</parent>
+        <parent_table>sys_sg_screen</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-05 20:46:51</sys_created_on>
+        <sys_id>5d72d7a9db506010b64e7b6039961950</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New (MyUniversityStudents)</sys_name>
+        <sys_package display_value="My_University" source="x_539696_my_univer">87cd0225db9c2010b64e7b6039961992</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="My_University">87cd0225db9c2010b64e7b6039961992</sys_scope>
+        <sys_update_name>sys_sg_button_instance_5d72d7a9db506010b64e7b6039961950</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-05 20:46:51</sys_updated_on>
+        <table/>
+    </sys_sg_button_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=5d72d7a9db506010b64e7b6039961950"/>
+</record_update>

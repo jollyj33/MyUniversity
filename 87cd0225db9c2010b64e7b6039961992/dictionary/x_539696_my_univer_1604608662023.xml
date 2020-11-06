@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_import_set_row" label="My Univer 1604608662023" max_length="40" name="x_539696_my_univer_1604608662023" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Course Enrolled" label="Course Enrolled" max_length="40" name="u_course_enrolled" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Date Registered" label="Date Registered" max_length="40" name="u_date_registered" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=First Name" label="First Name" max_length="40" name="u_first_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Grades" label="Grades" max_length="40" name="u_grades" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Last Name" label="Last Name" max_length="40" name="u_last_name" type="string"/>
+    </element>
+</database>
